@@ -7,4 +7,4 @@ env:
  - secure: "TsYgfDTXM9DhteoxruftAIm9qbcVFTfBbPmi/Mv9lGkDKZ/b4pputXgbfy2On7dsu5s9Bio/P4Nri61sgVHZm6AJIsNWf2D6Ggiz94oddr0r+7dPp9yqTziPQAKNmMSzCtLff9Dl4BSOiasy/aQy5M+NrD6kXex0xjZyTIEndzk="
 notifications:
  webhooks:
-  - https://api.staging.integrator.io/v1/exports/5e956e94d133807f066f94e9/data
+  - https://api.staging.integrator.io/v1/exports/5f1abeaa97d87b2b9780ed83/data
